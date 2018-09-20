@@ -62,5 +62,6 @@
   },
   "homepage": "http://ScrollMagic.io",
   "bugs": "https://github.com/ByteGain/scrollmagic/issues",
-  "files": ["scrollmagic", "LICENSE.md", "README.md"]
+  "files": ["scrollmagic", "LICENSE.md", "README.md"],
+  "keywords": ["scroll", "scrolling", "animation", "sticky", "pin", "fixed", "scrollbar", "scrub", "sync", "position", "progress", "parallax", "events", "classes", "jquery-plugin", "ecosystem:jquery"]
 }
